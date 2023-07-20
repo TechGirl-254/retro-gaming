@@ -17,11 +17,11 @@ SDL website: https://www.libsdl.org/download-2.0.php
 
 OPENGL Libraries
 
-OPENGL website:
+OPENGL website: https://www.opengl.org/
 
 CODE BLOCKS
 
-CODE BLOCKS website:
+CODE BLOCKS website: https://www.codeblocks.org/
 
 ## How to play
 
@@ -32,7 +32,9 @@ To play this game, you need to install the SDL2 library, clone the repository, t
 
 commands or opt to execute the executable (./The_Maze).
 
-The player can use the arrows keys to move inside the maze, there is no exit.
+The player can use the 'w' key to move up, 's' to move down, 'a' to move left, and 'd' to move right.
+When you get to a door, you can click the 'e' key to open it.
+
 
 ## Table of content: 
 
@@ -78,15 +80,11 @@ So why didn't I do this, honestly, time was my sole constraint considering I bui
 
 ## Sources
 
-https://www.libsdl.org/download-2.0.php
+ttps://www.mathsisfun.com/algebra/trigonometry.html
 
-https://lodev.org/cgtutor/raycasting.html
+https://github.com/hollaze/
 
-https://www.mathsisfun.com/algebra/trigonometry.html
-
-https://github.com/elanthis/upng
-
-(And some youtube videos)
+(And several youtube videos)
 
 ## Author
 
