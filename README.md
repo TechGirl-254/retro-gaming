@@ -80,7 +80,7 @@ So why didn't I do this, honestly, time was my sole constraint considering I bui
 
 ## Sources
 
-ttps://www.mathsisfun.com/algebra/trigonometry.html
+https://www.mathsisfun.com/algebra/trigonometry.html
 
 https://github.com/hollaze/
 
